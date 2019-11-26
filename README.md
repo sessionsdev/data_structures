@@ -18,4 +18,3 @@ Included:
 
 
 
-![image](https://user-images.githubusercontent.com/15733809/69667063-4aba1980-105b-11ea-8001-e94872ccf8ba.png)
